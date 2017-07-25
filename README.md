@@ -6,5 +6,5 @@ Haiwei Zuo
 ---
 click [here] (https://github.com/UCLSummerProject)to my git
 
-##My work List
+## My work List
 * Game Design Document (GDD)
