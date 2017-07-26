@@ -9,3 +9,4 @@ click [here](https://github.com/UCLSummerProject) to my git
 ## My work List
 * Game Design Document (GDD)
 * Setting up Github
+* Add World Map
